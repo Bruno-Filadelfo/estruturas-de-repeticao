@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj": {}
+    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj": {
+    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj",
         "projectName": "introdução while",
-        "projectPath": "c:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj",
+        "projectPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\introdução while.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\estrutura de repetição\\introdução ao while\\introdução while\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
