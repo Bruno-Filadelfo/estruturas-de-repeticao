@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\bin\Debug\net9.0\introdução while.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\bin\Debug\net9.0\introdução while.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\bin\Debug\net9.0\introdução while.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\bin\Debug\net9.0\introdução while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\bin\Debug\net9.0\introdução while.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\refint\introdução while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\introdução while.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução while\obj\Debug\net9.0\ref\introdução while.dll
