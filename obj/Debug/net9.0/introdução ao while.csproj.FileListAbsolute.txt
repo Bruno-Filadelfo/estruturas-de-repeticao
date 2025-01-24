@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\bin\Debug\net9.0\introdução ao while.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\bin\Debug\net9.0\introdução ao while.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\bin\Debug\net9.0\introdução ao while.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\bin\Debug\net9.0\introdução ao while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\bin\Debug\net9.0\introdução ao while.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\refint\introdução ao while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\ref\introdução ao while.dll
