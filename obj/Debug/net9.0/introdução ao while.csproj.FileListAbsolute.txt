@@ -12,3 +12,4 @@ C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução 
 C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.pdb
 C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.genruntimeconfig.cache
 C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\ref\introdução ao while.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\estrutura de repetição\introdução ao while\introdução ao while\obj\Debug\net9.0\introdução ao while.sourcelink.json

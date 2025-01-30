@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("introdução ao while")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78980368e6661e38af2114d5ce11df862f112117")]
 [assembly: System.Reflection.AssemblyProductAttribute("introdução ao while")]
 [assembly: System.Reflection.AssemblyTitleAttribute("introdução ao while")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
